@@ -16,7 +16,7 @@ The system is defined by the following differential equation :
 (d2x/dt2) + 2:25x = f(t)
 Now we will use the functions appropriately to find out the time response of the system
 
-![Figure_7 1](https://user-images.githubusercontent.com/81006760/115748884-36935c80-a3b4-11eb-95be-2736be992bba.png)
+![Figure_7 1](https://user-images.githubusercontent.com/81006760/115753046-5a58a180-a3b8-11eb-8a79-4d5eb1deb0bf.png)
 
 x(t) vs t for 0.5 and 0.05 damping factor
 
