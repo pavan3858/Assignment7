@@ -1,4 +1,4 @@
-# Assignment7
+# ASSIGNMENT-7 EE19B010,BADHAVATH PAVAN
 ## INTRODUCTION
 In this assignment we will try to use the transfer functions which are in frequency domain to find out the time responses of various oscillatory systems and plot them.
 We will import scipy.special to use functions such as lti, impulse, bode, lsim etc. This will help us convert from frequency to time domain and analyse them. These functions from the scipy module make our work a lot easier.
